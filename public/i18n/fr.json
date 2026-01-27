@@ -1,0 +1,82 @@
+{
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "noData": "Aucune donnée",
+    "confirm": "Confirmer",
+    "yes": "Oui",
+    "no": "Non",
+    "actions": "Actions",
+    "back": "Retour"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "loginTitle": "Connectez-vous à votre compte",
+    "loginButton": "Se connecter",
+    "invalidCredentials": "Email ou mot de passe incorrect"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "menus": "Menus",
+    "categories": "Catégories",
+    "dishes": "Plats",
+    "preview": "Prévisualisation",
+    "settings": "Paramètres"
+  },
+  "menus": {
+    "title": "Menus",
+    "createMenu": "Créer un menu",
+    "editMenu": "Modifier le menu",
+    "titleFr": "Titre (FR)",
+    "titleEn": "Titre (EN)",
+    "descriptionFr": "Description (FR)",
+    "descriptionEn": "Description (EN)",
+    "published": "Publié",
+    "notPublished": "Non publié",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce menu ?",
+    "noMenus": "Aucun menu créé"
+  },
+  "categories": {
+    "title": "Catégories",
+    "createCategory": "Créer une catégorie",
+    "editCategory": "Modifier la catégorie",
+    "nameFr": "Nom (FR)",
+    "nameEn": "Nom (EN)",
+    "sortOrder": "Ordre d'affichage",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette catégorie ?",
+    "noCategories": "Aucune catégorie créée"
+  },
+  "dishes": {
+    "title": "Plats",
+    "createDish": "Créer un plat",
+    "editDish": "Modifier le plat",
+    "nameFr": "Nom (FR)",
+    "nameEn": "Nom (EN)",
+    "descriptionFr": "Description (FR)",
+    "descriptionEn": "Description (EN)",
+    "price": "Prix",
+    "image": "Image",
+    "uploadImage": "Télécharger une image",
+    "available": "Disponible",
+    "notAvailable": "Non disponible",
+    "tags": "Tags",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce plat ?",
+    "noDishes": "Aucun plat créé"
+  },
+  "tags": {
+    "VEGAN": "Végan",
+    "VEGETARIAN": "Végétarien",
+    "GLUTEN_FREE": "Sans gluten",
+    "SPICY": "Épicé",
+    "HALAL": "Halal",
+    "KOSHER": "Casher"
+  }
+}
